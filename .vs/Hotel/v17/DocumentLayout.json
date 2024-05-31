@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iksas\\Desktop\\Hotel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E696316-1E06-4416-8677-372E5A0E184B}|Hotel\\HotelAPI.csproj|c:\\users\\iksas\\desktop\\hotel\\hotel\\repositories\\interface\\ihotelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E696316-1E06-4416-8677-372E5A0E184B}|Hotel\\HotelAPI.csproj|solutionrelative:hotel\\repositories\\interface\\ihotelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E696316-1E06-4416-8677-372E5A0E184B}|Hotel\\HotelAPI.csproj|c:\\users\\iksas\\desktop\\hotel\\hotel\\repositories\\implementation\\hotelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E696316-1E06-4416-8677-372E5A0E184B}|Hotel\\HotelAPI.csproj|solutionrelative:hotel\\repositories\\implementation\\hotelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E696316-1E06-4416-8677-372E5A0E184B}|Hotel\\HotelAPI.csproj|c:\\users\\iksas\\desktop\\hotel\\hotel\\controllers\\hotelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E696316-1E06-4416-8677-372E5A0E184B}|Hotel\\HotelAPI.csproj|solutionrelative:hotel\\controllers\\hotelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E696316-1E06-4416-8677-372E5A0E184B}|Hotel\\HotelAPI.csproj|c:\\users\\iksas\\desktop\\hotel\\hotel\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E696316-1E06-4416-8677-372E5A0E184B}|Hotel\\HotelAPI.csproj|solutionrelative:hotel\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E696316-1E06-4416-8677-372E5A0E184B}|Hotel\\HotelAPI.csproj|c:\\users\\iksas\\desktop\\hotel\\hotel\\models\\hoteldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E696316-1E06-4416-8677-372E5A0E184B}|Hotel\\HotelAPI.csproj|solutionrelative:hotel\\models\\hoteldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E696316-1E06-4416-8677-372E5A0E184B}|Hotel\\HotelAPI.csproj|c:\\users\\iksas\\desktop\\hotel\\hotel\\data\\hoteldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E696316-1E06-4416-8677-372E5A0E184B}|Hotel\\HotelAPI.csproj|solutionrelative:hotel\\data\\hoteldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E696316-1E06-4416-8677-372E5A0E184B}|Hotel\\HotelAPI.csproj|c:\\users\\iksas\\desktop\\hotel\\hotel\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E696316-1E06-4416-8677-372E5A0E184B}|Hotel\\HotelAPI.csproj|solutionrelative:hotel\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E696316-1E06-4416-8677-372E5A0E184B}|Hotel\\HotelAPI.csproj|c:\\users\\iksas\\desktop\\hotel\\hotel\\repositories\\implementation\\bookingsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E696316-1E06-4416-8677-372E5A0E184B}|Hotel\\HotelAPI.csproj|solutionrelative:hotel\\repositories\\implementation\\bookingsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E696316-1E06-4416-8677-372E5A0E184B}|Hotel\\HotelAPI.csproj|c:\\users\\iksas\\desktop\\hotel\\hotel\\repositories\\interface\\ibookingsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E696316-1E06-4416-8677-372E5A0E184B}|Hotel\\HotelAPI.csproj|solutionrelative:hotel\\repositories\\interface\\ibookingsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E696316-1E06-4416-8677-372E5A0E184B}|Hotel\\HotelAPI.csproj|c:\\users\\iksas\\desktop\\hotel\\hotel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E696316-1E06-4416-8677-372E5A0E184B}|Hotel\\HotelAPI.csproj|solutionrelative:hotel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E696316-1E06-4416-8677-372E5A0E184B}|Hotel\\HotelAPI.csproj|c:\\users\\iksas\\desktop\\hotel\\hotel\\hotelapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2E696316-1E06-4416-8677-372E5A0E184B}|Hotel\\HotelAPI.csproj|solutionrelative:hotel\\hotelapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E696316-1E06-4416-8677-372E5A0E184B}|Hotel\\HotelAPI.csproj|c:\\users\\iksas\\desktop\\hotel\\hotel\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E696316-1E06-4416-8677-372E5A0E184B}|Hotel\\HotelAPI.csproj|solutionrelative:hotel\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E696316-1E06-4416-8677-372E5A0E184B}|Hotel\\HotelAPI.csproj|c:\\users\\iksas\\desktop\\hotel\\hotel\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E696316-1E06-4416-8677-372E5A0E184B}|Hotel\\HotelAPI.csproj|solutionrelative:hotel\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E696316-1E06-4416-8677-372E5A0E184B}|Hotel\\HotelAPI.csproj|c:\\users\\iksas\\desktop\\hotel\\hotel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E696316-1E06-4416-8677-372E5A0E184B}|Hotel\\HotelAPI.csproj|solutionrelative:hotel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E696316-1E06-4416-8677-372E5A0E184B}|Hotel\\HotelAPI.csproj|c:\\users\\iksas\\desktop\\hotel\\hotel\\hotel.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2E696316-1E06-4416-8677-372E5A0E184B}|Hotel\\HotelAPI.csproj|solutionrelative:hotel\\hotel.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HotelRepository.cs",
+              "DocumentMoniker": "C:\\Users\\iksas\\Desktop\\Hotel\\Hotel\\Repositories\\Implementation\\HotelRepository.cs",
+              "RelativeDocumentMoniker": "Hotel\\Repositories\\Implementation\\HotelRepository.cs",
+              "ToolTip": "C:\\Users\\iksas\\Desktop\\Hotel\\Hotel\\Repositories\\Implementation\\HotelRepository.cs",
+              "RelativeToolTip": "Hotel\\Repositories\\Implementation\\HotelRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:50:06.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HotelDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\iksas\\Desktop\\Hotel\\Hotel\\Data\\HotelDbContext.cs",
+              "RelativeDocumentMoniker": "Hotel\\Data\\HotelDbContext.cs",
+              "ToolTip": "C:\\Users\\iksas\\Desktop\\Hotel\\Hotel\\Data\\HotelDbContext.cs",
+              "RelativeToolTip": "Hotel\\Data\\HotelDbContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowB4AAAAXAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:19:47.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HotelData.cs",
+              "DocumentMoniker": "C:\\Users\\iksas\\Desktop\\Hotel\\Hotel\\Models\\HotelData.cs",
+              "RelativeDocumentMoniker": "Hotel\\Models\\HotelData.cs",
+              "ToolTip": "C:\\Users\\iksas\\Desktop\\Hotel\\Hotel\\Models\\HotelData.cs",
+              "RelativeToolTip": "Hotel\\Models\\HotelData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:44:28.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\iksas\\Desktop\\Hotel\\Hotel\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Hotel\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\iksas\\Desktop\\Hotel\\Hotel\\Models\\Booking.cs",
+              "RelativeToolTip": "Hotel\\Models\\Booking.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:11:35.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookingsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\iksas\\Desktop\\Hotel\\Hotel\\Repositories\\Implementation\\BookingsRepository.cs",
+              "RelativeDocumentMoniker": "Hotel\\Repositories\\Implementation\\BookingsRepository.cs",
+              "ToolTip": "C:\\Users\\iksas\\Desktop\\Hotel\\Hotel\\Repositories\\Implementation\\BookingsRepository.cs",
+              "RelativeToolTip": "Hotel\\Repositories\\Implementation\\BookingsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:30:51.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBookingsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\iksas\\Desktop\\Hotel\\Hotel\\Repositories\\Interface\\IBookingsRepository.cs",
+              "RelativeDocumentMoniker": "Hotel\\Repositories\\Interface\\IBookingsRepository.cs",
+              "ToolTip": "C:\\Users\\iksas\\Desktop\\Hotel\\Hotel\\Repositories\\Interface\\IBookingsRepository.cs",
+              "RelativeToolTip": "Hotel\\Repositories\\Interface\\IBookingsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:31:11.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IHotelRepository.cs",
+              "DocumentMoniker": "C:\\Users\\iksas\\Desktop\\Hotel\\Hotel\\Repositories\\Interface\\IHotelRepository.cs",
+              "RelativeDocumentMoniker": "Hotel\\Repositories\\Interface\\IHotelRepository.cs",
+              "ToolTip": "C:\\Users\\iksas\\Desktop\\Hotel\\Hotel\\Repositories\\Interface\\IHotelRepository.cs",
+              "RelativeToolTip": "Hotel\\Repositories\\Interface\\IHotelRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:50:25.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\iksas\\Desktop\\Hotel\\Hotel\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "Hotel\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\iksas\\Desktop\\Hotel\\Hotel\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "Hotel\\Controllers\\BookingController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T10:46:12.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HotelController.cs",
+              "DocumentMoniker": "C:\\Users\\iksas\\Desktop\\Hotel\\Hotel\\Controllers\\HotelController.cs",
+              "RelativeDocumentMoniker": "Hotel\\Controllers\\HotelController.cs",
+              "ToolTip": "C:\\Users\\iksas\\Desktop\\Hotel\\Hotel\\Controllers\\HotelController.cs",
+              "RelativeToolTip": "Hotel\\Controllers\\HotelController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwCsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:25:07.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iksas\\Desktop\\Hotel\\Hotel\\Program.cs",
+              "RelativeDocumentMoniker": "Hotel\\Program.cs",
+              "ToolTip": "C:\\Users\\iksas\\Desktop\\Hotel\\Hotel\\Program.cs",
+              "RelativeToolTip": "Hotel\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAqwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:16:48.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HotelAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\iksas\\Desktop\\Hotel\\Hotel\\HotelAPI.csproj",
+              "RelativeDocumentMoniker": "Hotel\\HotelAPI.csproj",
+              "ToolTip": "C:\\Users\\iksas\\Desktop\\Hotel\\Hotel\\HotelAPI.csproj",
+              "RelativeToolTip": "Hotel\\HotelAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-30T10:52:22.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\iksas\\Desktop\\Hotel\\Hotel\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Hotel\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\iksas\\Desktop\\Hotel\\Hotel\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Hotel\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-24T10:23:37.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\iksas\\Desktop\\Hotel\\Hotel\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Hotel\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\iksas\\Desktop\\Hotel\\Hotel\\appsettings.Development.json",
+              "RelativeToolTip": "Hotel\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-24T08:31:23.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\iksas\\Desktop\\Hotel\\Hotel\\appsettings.json",
+              "RelativeDocumentMoniker": "Hotel\\appsettings.json",
+              "ToolTip": "C:\\Users\\iksas\\Desktop\\Hotel\\Hotel\\appsettings.json",
+              "RelativeToolTip": "Hotel\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-24T08:31:21.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Hotel.http",
+              "DocumentMoniker": "C:\\Users\\iksas\\Desktop\\Hotel\\Hotel\\Hotel.http",
+              "RelativeDocumentMoniker": "Hotel\\Hotel.http",
+              "ToolTip": "C:\\Users\\iksas\\Desktop\\Hotel\\Hotel\\Hotel.http",
+              "RelativeToolTip": "Hotel\\Hotel.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-24T08:30:53.38Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
