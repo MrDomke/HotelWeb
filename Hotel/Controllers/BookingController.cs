@@ -48,6 +48,7 @@ namespace HotelAPI.Controllers
 
         private decimal CalculateTotalCost(Booking booking)
         {
+            //There should be enum
             decimal roomRate = booking.RoomType switch
             {
                 "Standard" => 100m,
